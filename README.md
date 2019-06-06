@@ -1,4 +1,4 @@
-# Updating k8s app :memo:
+# Zero Downtime Deployment with Kubernetes + HELM :memo:
 
 This repository is intended to teach how to rollout changes a Docker HelloWorld image into the Kubernetes clusters.
 
