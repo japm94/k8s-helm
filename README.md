@@ -2,7 +2,7 @@
 
 This repository is intended to teach how to rollout changes a Docker HelloWorld image into the Kubernetes clusters.
 
-If you are here just for fun or learning, you will need to machines, [Just 4Fun](https://github.com/japm94/risk.ident/blob/master/README.md#just-4fun-space_invader-video_game-game_die)
+If you are here just for fun or learning, you will need to machines, [Just 4Fun](https://github.com/japm94/k8s-helm/blob/master/README.md#just-4fun-space_invader-video_game-game_die)
 
 ## Prerequisites :world_map:
 
